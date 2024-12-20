@@ -1,0 +1,14 @@
+{
+    "version": "3.1.0",
+    "feature_id": "16904975841099742019",
+    "public_key": "YoubinYao.public_key",
+    "signature": "YoubinYao.signature",
+    "license": "YoubinYao.lic",
+    "toolbox": [
+        {
+            "name": "Basic",
+            "type": "PERMANENT",
+            "data": ""
+        }
+    ]
+}
